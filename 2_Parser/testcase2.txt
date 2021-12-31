@@ -1,0 +1,14 @@
+void main() {
+
+	int arr[5];
+	int num = 0;
+	while(num <= 4) {
+		arr[num] = input()
+		if(arr[num] == 99) {
+			return 0;
+		}
+		/* test *  */
+		num = num + 1;
+	}
+	return arr[0];
+}

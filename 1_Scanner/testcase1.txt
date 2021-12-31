@@ -1,0 +1,19 @@
+/* first testcase1 */
+
+int add (int a, int b)
+{
+	return a+b;
+}
+
+int main()
+{
+	int temp;
+	temp = 0;
+
+	if(temp == 0)
+	{
+		return temp;
+	}
+
+	return 0;
+}
